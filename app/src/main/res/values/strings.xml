@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Calculator2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+<!--    <string name="next">Next</string>-->
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="write_here">hello eotlf</string>
+    <string name="firsrButton">/</string>
+    <string name="second_button">second_Button</string>
+    <string name="first_Button">first_Button</string>
+    <string name="text1">G</string>
+    <string name="text2">.</string>
+    <string name="text3">%</string>
+    <string name="text4">/</string>
+    <string name="text5">7</string>
+    <string name="text6">8</string>
+    <string name="text7">9</string>
+    <string name="text8">*</string>
+    <string name="text9">4</string>
+    <string name="text10">5</string>
+    <string name="text11">6</string>
+    <string name="text12">-</string>
+    <string name="text13">1</string>
+    <string name="text14">2</string>
+    <string name="text15">3</string>
+    <string name="text16">+</string>
+    <string name="text17">+/-</string>
+    <string name="text18">0</string>
+    <string name="text19">C</string>
+    <string name="text20">=</string>
+</resources>
